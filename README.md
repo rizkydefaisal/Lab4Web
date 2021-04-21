@@ -1,10 +1,10 @@
-# Lab4Web
 <html>
-<hr>Rizky Faisal
+  <h1>Lab4Web</h1>
+  <hr>Rizky Faisal
   <br>311910539
   <br>TI.19.A3
-  </br
-</hr>
+  </br>
+  <b></b>
 <p>
   Praktikum 4
 </p>
